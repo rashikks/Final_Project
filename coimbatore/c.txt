@@ -1,0 +1,11 @@
+/*ryanmjacobs*/
+#include <stdio.h>
+
+int main() {
+//print test 
+    printf("step");
+    return 0;
+
+//scanf variable 
+    scanf("variable");
+}
